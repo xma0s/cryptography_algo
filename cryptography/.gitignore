@@ -1,0 +1,35 @@
+# Compiled binary directory
+/target/
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Intermediate files
+*.o
+*.obj
+
+# Cargo lock file (optional, include if you're writing a library)
+/Cargo.lock
+
+# Package manager artifact
+/.cargo/
+
+# Generated files
+*.rs.bk
+*.rs~
+*.rs.orig
+
+# Debugging files
+*.log
+
+# Editor backups
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Node modules (if integrated with JavaScript/TypeScript)
+node_modules/

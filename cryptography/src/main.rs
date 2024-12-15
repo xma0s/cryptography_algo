@@ -1,3 +1,6 @@
+mod secp256;
+mod ed25519;
 fn main() {
-    println!("Hello, world!");
+    //secp256::exec();
+    //ed25519::exec();
 }
