@@ -1,4 +1,4 @@
-use curve25519_dalek::scalar::Scalar;
+/*use curve25519_dalek::scalar::Scalar;
 use rand::SeedableRng;
 use rand::rngs::StdRng;
 
@@ -26,4 +26,4 @@ pub fn exec() {
     println!("Input xl: {:?}", xl);
     println!("Input xr: {:?}", xr);
     println!("Poseidon 2:1 Hash: {:?}", hash);
-}
+} */
